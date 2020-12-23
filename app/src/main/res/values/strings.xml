@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">p2018110355杨莹(test2)</string>
+    <string name="text1">加法器</string>
+    <string name="history">History</string>
+    <string name="number_one">Number One:</string>
+    <string name="number_tow">Number Tow:</string>
+    <string name="add">ADD</string>
+    <string name="result">the result is:</string>
+    <string name="history_list">历史列表</string>
+
+</resources>
